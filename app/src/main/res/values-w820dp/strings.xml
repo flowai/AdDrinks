@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="okay">OK</string>
+    <string name="commercial_headline">Welche Themengebiete interessieren dich?</string>
+    <string name="commercial_technique">Technik</string>
+    <string name="commercial_cars">Autos</string>
+    <string name="commercial_beauty">Beauty</string>
+    <string name="commercial_children">Kinder</string>
+    <string name="commercial_animals">Tiere</string>
+    <string name="commercial_consumption">Konsum</string>
+    <string name="account_name">Name</string>
+    <string name="account_prename">Vorname</string>
+    <string name="account_email">eMail</string>
+    <string name="action_account">Account</string>
+    <string name="action_commercial">Werbung</string>
+    <string name="action_coffee">Kaffeesorten</string>
+    <string name="plzOrt">PLZ / Ort</string>
+    <string name="passwordRepeat">repeat password</string>
+    <string name="password">password</string>
+    <string name="submitData">sende Daten</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B71E42</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ECEAE7</color>
+
+    <!-- Youtube Colors -->
+    <color name="shadow">#555555</color>
+    <color name="title">#777777</color>
+</resources>

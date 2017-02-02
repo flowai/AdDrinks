@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AdDrinks</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Home Fragment -->
+    <string name="home_headline">Deine Werbefinanzierten Getränke</string>
+    <string name="home_bottomline">Addrinks finanziert dir deinen Kaffee! Einfach Kaffee auswählen, Clips anschauen und du erhältst deinen Kaffee!</string>
+
+    <!-- Coffee Fragment -->
+    <string name="coffee_headline">Bitte wähle deinen Kaffee</string>
+    <string name="coffee_capsules">Kapseln</string>
+    <string name="coffee_pads">Pads</string>
+    <string name="coffee_beans">Bohnenkaffee</string>
+    <string name="coffee_filter">Filterkaffee</string>
+
+    <!-- Coffee Fragment Popup -->
+    <string name="okay">OK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="commercial_headline">Welche Themengebiete interessieren dich?</string>
+    <string name="commercial_technique">Technik</string>
+    <string name="commercial_cars">Autos</string>
+    <string name="commercial_beauty">Beauty</string>
+    <string name="commercial_children">Kinder</string>
+    <string name="commercial_animals">Tiere</string>
+    <string name="commercial_consumption">Konsumgüter</string>
+    <string name="account_name">Name</string>
+    <string name="account_prename">Vorname</string>
+    <string name="account_email">eMail</string>
+    <string name="action_account">Account</string>
+    <string name="action_commercial">Werbung</string>
+    <string name="action_coffee">Kaffeesorten</string>
+    <string name="plzOrt">PLZ / Ort</string>
+    <string name="passwordRepeat">repeat password</string>
+    <string name="password">password</string>
+    <string name="submitData">sende Daten</string>
+
+
+    <!-- You Tube Player -->
+    <string name="title_logo">YouTube Tab</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+</resources>

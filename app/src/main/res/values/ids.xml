@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="home_headline" />
+    <item type="id" name="coffee_headline"/>
+    <item type="id" name="radio_capsules"/>
+    <item type="id" name="radio_pads"/>
+    <item type="id" name="radio_beans"/>
+    <item type="id" name="radio_filter"/>
+    <item type="id" name="coffee_horizontal_break"/>
+    <item name="commercial_headline" type="id">commercial_headline</item>
+    <item name="commercial_horizontal_break" type="id">commercial_horizontal_break</item>
+    <item name="home_description" type="id">home_description</item>
+    <item name="video_view" type="id" />
+    <item name="coffee_horizontal_break_lower" type="id" />
+</resources>
